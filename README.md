@@ -27,4 +27,6 @@ v. EfficientNetB0 implementation without Image augmenatation
 vi. EfficientNetB0 implementation with Image augmenatation
 
 
+Skills - Data Science, Deep Learning, Neural Networks, Transfer Learning
+
 -----------------------------THANK YOU-----------------------------
